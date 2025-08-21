@@ -8,6 +8,6 @@ PROJETO DE EXTENSÃO EM ADIMINISTRAÇÃO DE BANCO DE DADOS
 | ------------------ | ------ | ------ |
 | [Thyago Barbosa Lucas] | [Líder] | [https://github.com/ThyagoBL?tab=repositories] |
 | [Rodrigo Barbosa Lucas] | [Analista] | [https://github.com/guigorkb-creator] |
-| [ARTHUR MEVES SILVA] | [Analista] | [Link do GitHub do Integrante 3] |
+| [ARTHUR MEVES SILVA] | [Analista] | [https://github.com/meveszinho] |
 | [MATHEUS DA SILVA BATISTA] | [Analista] | [https://github.com/The-Kermit] |
 | [RENAN YUKI FUJITA] | [Analista] | [https://github.com/renanfujita] |
