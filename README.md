@@ -10,5 +10,5 @@ PROJETO DE EXTENSÃO EM ADIMINISTRAÇÃO DE BANCO DE DADOS
 | [Rodrigo Barbosa Lucas] | [Analista] | [https://github.com/guigorkb-creator] |
 | [ARTHUR MEVES SILVA] | [Função 3] | [Link do GitHub do Integrante 3] |
 | [DIEGO NASCIMENTO DE FARIA] | [Função 4] | [Link do GitHub do Integrante 3] |
-| [MATHEUS DA SILVA BATISTA] | [Função 5] | [Link do GitHub do Integrante 3] |
+| [MATHEUS DA SILVA BATISTA] | [Função 5] | [https://github.com/The-Kermit] |
 | [RENAN YUKI FUJITA] | [Função 6] | [https://github.com/renanfujita] |
