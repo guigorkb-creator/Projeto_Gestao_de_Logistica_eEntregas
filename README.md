@@ -11,4 +11,4 @@ PROJETO DE EXTENSÃO EM ADIMINISTRAÇÃO DE BANCO DE DADOS
 | [ARTHUR MEVES SILVA] | [Função 3] | [Link do GitHub do Integrante 3] |
 | [DIEGO NASCIMENTO DE FARIA] | [Função 4] | [Link do GitHub do Integrante 3] |
 | [MATHEUS DA SILVA BATISTA] | [Função 5] | [Link do GitHub do Integrante 3] |
-| [RENAN YUKI FUJITA] | [Função 6] | [Link do GitHub do Integrante 3] |
+| [RENAN YUKI FUJITA] | [Função 6] | [https://github.com/renanfujita] |
